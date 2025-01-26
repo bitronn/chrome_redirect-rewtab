@@ -1,4 +1,4 @@
-# ChatGPT New Tab Redirect
+# New Tab Redirect
 
 This Chrome extension redirects new tabs to a custom URL set by the user.
 
